@@ -6,4 +6,4 @@
 
 [用 Gitlab-CI 进行持续集成](./用Gitlab%20CI进行持续集成/用Gitlab%20CI进行持续集成.key)
 
-[](./用Gitlab%20CI进行持续集成/PPT截图.png)
+![](./用Gitlab%20CI进行持续集成/PPT截图.png)
