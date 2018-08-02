@@ -6,7 +6,7 @@
 
 [用 Gitlab-CI 进行持续集成](./用Gitlab%20CI进行持续集成/用Gitlab%20CI进行持续集成.key)
 
-[](./用Gitlab%20CI进行持续集成/PPT截图.png)
+[](./用Gitlab CI进行持续集成/PPT截图.png)
 
 ## 2018.08.02 负债均衡介绍以及常用配置
 
